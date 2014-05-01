@@ -1,0 +1,5 @@
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\pratica2\pratica2\bin\Debug\pratica2.exe
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\pratica2\pratica2\bin\Debug\pratica2.pdb
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\pratica2\pratica2\obj\Debug\pratica2.csprojResolveAssemblyReference.cache
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\pratica2\pratica2\obj\Debug\pratica2.exe
+C:\Users\Ing. Omar\Documents\SharpDevelop Projects\pratica2\pratica2\obj\Debug\pratica2.pdb
